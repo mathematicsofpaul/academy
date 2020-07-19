@@ -7,7 +7,6 @@ dependencies:
   - pip
   - pandas
   - requests
-  - torch
   - tensorflow
   - keras
   - scikit-learn
@@ -27,4 +26,3 @@ dependencies:
     - atoma
     - box2d-py
     - anyscale
-
